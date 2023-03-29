@@ -34,3 +34,4 @@ _ReSharper*/
 # Ignore Visual Studio folder
 .vs/
 
+.DS_Store
