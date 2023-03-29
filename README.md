@@ -40,12 +40,12 @@ To build and test the project, follow these steps:
       D:EURUSD:100:1.11
    ```
 
-create trades.txt file for output
+   create trades.txt file for output
 
-run the below command
+   run the below command
 
-    ```
-        dotnet run Exchange < orders.txt > trades.txt
-    ```
+   ```
+      dotnet run Exchange < orders.txt > trades.txt
+   ```
 
-you can replace the order.txt and trades.txt with your desired file paths
+   you can replace the order.txt and trades.txt with your desired file paths
